@@ -1,7 +1,7 @@
 Package: sbivar
 Type: Package
 Title: Test for Spatial Bivariate Association Across Omics Types
-Version: 0.99.33
+Version: 0.99.34
 Authors@R: c(person(given = "Stijn", family = "Hawinkel", 
     email = "stijn.hawinkel@psb.ugent.be",
     role=c("cre", "aut"), comment = c(ORCID = "0000-0002-4501-5180")),
@@ -24,4 +24,3 @@ VignetteBuilder: knitr
 BugReports: https://github.com/sthawinke/sbivar/issues
 URL: https://github.com/sthawinke/sbivar
 Config/roxygen2/version: 8.0.0
-BiocType: Software
